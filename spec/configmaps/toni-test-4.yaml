@@ -1,0 +1,1 @@
+{"apiVersion":"v1","kind":"ConfigMap","metadata":{"name":"toni-test-4","namespace":"platform-system"},"data":{"foo":"bar"}}
