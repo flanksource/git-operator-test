@@ -1,0 +1,7 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: test-20210104050158-qaee
+spec:
+  cpu: 4
+  memory: 32
