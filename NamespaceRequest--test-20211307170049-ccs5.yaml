@@ -1,0 +1,7 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: test-20211307170049-ccs5
+spec:
+  cpu: 4
+  memory: 32
