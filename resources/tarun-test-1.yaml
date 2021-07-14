@@ -3,5 +3,5 @@ data:
   some-key: some-value
 kind: ConfigMap
 metadata:
-  name: tarun-test
+  name: test-configmap
   namespace: default
