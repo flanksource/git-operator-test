@@ -1,0 +1,13 @@
+
+	{
+		"apiVersion": "acmp.corp/v1",
+		"kind": "NamespaceRequest",
+		"metadata": {
+			"name": "test-20211607142236-9fg1"
+		},
+		"spec": {
+			"cpu": 4,
+			"memory": 32
+		 }
+	}
+	
