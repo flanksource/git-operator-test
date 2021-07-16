@@ -1,7 +1,1 @@
-apiVersion: v1
-data:
-  some-key: some-value
-kind: ConfigMap
-metadata:
-  name: test-configmap
-  namespace: default
+{		"apiVersion": "v1",    	"data": {        	"some-key": "some-value",			"new-key": "new-value"    	},		"kind": "ConfigMap",    	"metadata": {        	"name": "test-configmap",        	"namespace": "default"		}	}
