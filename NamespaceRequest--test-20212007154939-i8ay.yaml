@@ -1,0 +1,7 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: test-20212007154939-i8ay
+spec:
+  cpu: 4
+  memory: 32
