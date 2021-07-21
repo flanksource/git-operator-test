@@ -1,3 +1,4 @@
 resources:
- - tarun-test-1.yaml
- - multi-objects.yaml
+- tarun-test-1.yaml
+- multi-objects.yaml
+- ConfigMap--sample-configmap.yaml
