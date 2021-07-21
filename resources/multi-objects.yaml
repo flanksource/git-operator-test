@@ -1,0 +1,16 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: tenant8
+spec:
+  cluster: dev01
+  memory: 10
+---
+## some comments that needs to be preserverd
+## please when updating the file don't remove me
+apiVersion: v1
+data:
+  some-key: some-value
+kind: ConfigMap
+metadata:
+  name: some-configmap
