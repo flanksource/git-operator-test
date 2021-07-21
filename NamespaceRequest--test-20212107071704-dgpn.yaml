@@ -1,0 +1,7 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: test-20212107071704-dgpn
+spec:
+  cpu: 4
+  memory: 32
