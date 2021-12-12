@@ -4,7 +4,8 @@ metadata:
   name: tenant8
 spec:
   cluster: dev01
-  memory: 10
+  memory: 11
+  some-new-key: test-value
 ---
 ## some comments that needs to be preserverd
 ## please when updating the file don't remove me
